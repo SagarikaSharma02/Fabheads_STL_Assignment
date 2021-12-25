@@ -8,5 +8,5 @@ Mount the google colab with your Google Drive (from the Files folder (Table of c
 
 Search for the assignment.stl file on the My drive column. Right click on the three dots and choose copy path.
 
-At last use the above path (link) for fname variable.
+At last use the above path (link generated) for fname variable.
 
