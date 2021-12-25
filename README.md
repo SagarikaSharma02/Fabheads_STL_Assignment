@@ -2,7 +2,7 @@
 
 Read the binary.stl file using python numpy library.
 
-Download the binary.stl file on the PC / Laptop. 
+Download the binary.stl (assignment.stl) file on the PC / Laptop. 
 
 Mount the google colab with your Google Drive and then upload the .stl file on the My drive column on the Files folder.
 
